@@ -110,9 +110,7 @@ ep_chassis.move(x=0.9, y=0, z=0, xy_speed=1.3).wait_for_completed()
 
 ## MobileRobot Movement Video:
 
-Upload your video in Youtube and paste your video-id here
-
-https://youtube.com/shorts/gS4LzZuEEhE?feature=share
+[https://youtube.com/shorts/gS4LzZuEEhE?feature=share](https://youtu.be/wq4C_ANaj3g?si=-3Af_1Rz3wKclpTj)
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
