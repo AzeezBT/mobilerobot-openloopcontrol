@@ -109,13 +109,6 @@ ep_chassis.move(x=0.9, y=0, z=0, xy_speed=1.3).wait_for_completed()
 
 ![image](https://github.com/AzeezBT/mobilerobot-openloopcontrol/assets/150319523/794cf529-52bc-47cf-8949-c5247097bc27)
 
-Insert image here
-
-
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## MobileRobot Movement Video:
 
