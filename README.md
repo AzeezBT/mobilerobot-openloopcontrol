@@ -105,7 +105,9 @@ ep_chassis.move(x=0.9, y=0, z=0, xy_speed=1.3).wait_for_completed()
 
 ## MobileRobot Movement Image:
 
-![robo](./img/robomaster.png)
+![image](https://github.com/AzeezBT/mobilerobot-openloopcontrol/assets/150319523/ca028d8b-f55c-4daf-9ccf-e42f673dd62c)
+
+![image](https://github.com/AzeezBT/mobilerobot-openloopcontrol/assets/150319523/794cf529-52bc-47cf-8949-c5247097bc27)
 
 Insert image here
 
@@ -119,23 +121,13 @@ Insert image here
 
 Upload your video in Youtube and paste your video-id here
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
-<br/>
-<br/>
-<br/>
-<br/>
+https://youtube.com/shorts/gS4LzZuEEhE?feature=share
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
 
-## Developed by: T.Thrishendra
+## Developed by: Shaik Azeez Ahamad
 ## Register no: 23003977 
-
-
-<br/>
-<br/>
-
 ```
 Mobile Robotics Laboratory
 Department of Artificial Intelligence and Data Science/ Machine Learning
